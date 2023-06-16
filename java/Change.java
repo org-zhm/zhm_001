@@ -4,4 +4,4 @@ import com.003;
 import com.004;
 import com.005;
  
-private GroupCustomCtrlItemCustomMapper
+private GroupCustomCtrlItemCustomMapper GroupCustomCtrlItemCustomMapper
